@@ -1,0 +1,9 @@
+Sự khác nhau giữa querySelector, querySelectorAll và
+getElementById, getElementsByClassName, getElementsByTagName:
+
+- querySelector, querySelectorAll:	tiện hơn khi ta cần có một selector phức tạp, querySelector trả về
+element đầu tiên thoả mãn css selector truyền vào, querySelectorAll trả về một mảng gồm tất cả các element thoả mãn
+- getElementById: trả về phần tử có id thoả mãn
+- getElementsByClassName: trả  về mảng các phần tử có class thoả mãn
+- getElementsByTagName: trả về mảng các phần tử có tag name thoả mãn
+
